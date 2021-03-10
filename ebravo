@@ -165,7 +165,7 @@ http://58.65.194.14:1935/live/PTV-News.stream/playlist.m3u8
 http://58.65.194.14:1935/live/Dawn-news.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv/News/611b80034e8936c991ffaa74adfccadb.jpg",Sindh TV News
 http://58.65.194.14:1935/live/Sindh-TV-News.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="",Crime Investigation
+#EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv//6b9ba634391757a13d292639acb0b65b.png",Lahore News
 http://58.65.194.14:1935/live/Crime-Investigation.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="",My Cinema HD
 http://58.65.194.14:1935/live/myCinemaHD.stream/playlist.m3u8
@@ -175,73 +175,71 @@ http://58.65.194.14:1935/live/CapitalTV.stream/playlist.m3u8
 http://58.65.194.14:1935/live/ABB-Takk.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv//59e3dc7134da9eed3444614fa73badc7.jpg",Such TV News
 http://58.65.194.14:1935/live/SuchTV.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="",News Asia
+#EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv/News/8fd29f1ec34b4cbb786bc9e9f1e3115b.jpg",News Asia
 http://58.65.194.14:1935/live/ChannelNewsAsia.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv/News/d859bc85bf7ba959ad310bbb65db0c2c.jpg",Bloomberg News
 http://58.65.194.14:1935/live/Bloomberg.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="",Al Arabia News
+#EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv/News/174796e718cea2ee0b9876c373c1c3d2.jpg",Al Arabia News
 http://58.65.194.14:1935/live/Al%20Araybia.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="",TRT World News
+#EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv//b19eff77b128d2b244bdc479b26153ea.png",TRT World News
 http://58.65.194.14:1935/live/TRTWorldHD.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="",Al Jazeera News
+#EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv//ca43fbc1ab616e48dd9a2a6eea7ecdbe.png",Al Jazeera News
 http://58.65.194.14:1935/live/AlJazeera.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="",France 21 News
+#EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv//a4ffc1d99bfc6c9f78ea11b7747e4ffd.png",France 21 News
 http://58.65.194.14:1935/live/France24.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="",Euro News
+#EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv//f0d5fd3e59a3d38093404289855932f6.jpg",Euro News
 http://58.65.194.14:1935/live/Euro-news.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="",BBC World News
+#EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv/News/8f10284b1f5ad798f3210215418fb022.jpg",BBC World News
 http://58.65.194.14:1935/live/BBC-world-news-HD.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="",CNN News
+#EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv//5e746e6efdb0b3f535df072910300c17.jpg",CNN News
 http://58.65.194.14:1935/live/CNN.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="",DW News
+#EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv//338fd5028495364996d9e544e94af790.jpg",DW News
 http://58.65.194.14:1935/live/DW-News.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="",Travel Channel
+#EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv//4d338c222de4e1087d5b06a118dc9395.png",Travel Channel
 http://58.65.194.14:1935/live/Travel-Channel-HD.stream/playlist.m3u8
-#EXTGRP:Science
 #EXTINF:-1 tvg-logo="",History HD
 http://58.65.194.14:1935/live/History%20HD.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="",Discovery Science HD
+#EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv/Documentary/672d694bb6381b8f22836ba0d8a9000c.png",Discovery Science HD
 http://58.65.194.14:1935/live/Discovery-Science-HD.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="",Discovery-ID-HD
+#EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv/Documentary/3fbcc6d8757a16f36db621afba92fbf2.png",Discovery-ID-HD
 http://58.65.194.14:1935/live/Discovery-ID-HD.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="",Arriang
+#EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv/Music/fe902429e3a56615b8801219d7b590a5.png",Arriang
 http://58.65.194.14:1935/live/Arirang.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="",BBC First
+#EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv/Documentary/93c9502b19fc58265d363366f310c2d6.png",BBC First
 http://58.65.194.14:1935/live/bbcfirst.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="",BBC Earth HD
+#EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv/Documentary/8573ee5d1e7f20e8dd5fe18d2d53da59.png",BBC Earth HD
 http://58.65.194.14:1935/live/BBC%20Earth%20HD.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="",DTX HD
+#EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv/Documentary/b7bf69ca01cadfc4a0284e34b778728a.png",DTX HD
 http://58.65.194.14:1935/live/DTXHD.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="",CGTN
+#EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv/Documentary/180e48bb341cc6a71152676eed71dfe5.jpg",CGTN
 http://58.65.194.14:1935/live/CGTN.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="",SciFi Universal
+#EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv/Documentary/dda5cf0d17af65d657adad4cdbf33791.png",SciFi HD
 http://58.65.194.14:1935/live/ScifiUniversal.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="",NatGeo Wild HD
+#EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv/Documentary/66ee7567288365cb0cd8c1999f277575.png",NatGeo Wild HD
 http://58.65.194.14:1935/live/Nat-Geo-Wild-HD.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="",NatGeo People HD
+#EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv/Documentary/bd5e36d31355b1001b3dfc1f8d92a39e.png",NatGeo People HD
 http://58.65.194.14:1935/live/NatGeoPeopleHD.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="",National Geographic HD
+#EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv/Documentary/00c3f5da2c6962d153d3af352469bd78.jpg",National Geographic HD
 http://58.65.194.14:1935/live/National-Geographic-HD.stream/playlist.m3u8
-#EXTGRP:Music
-#EXTINF:-1 tvg-logo="",Jalwa
+#EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv/Entertainment/c1e2d1618713192b6f72f1f198e86e54.jpg",Jalwa
 http://58.65.194.14:1935/live/jalwa.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="",ARY Music
+#EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv//a9ac091c79af4b681163fafb06801907.jpg",ARY Music
 http://58.65.194.14:1935/live/ARY-Musik.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="",Oxygene-TV
+#EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv//18e5b33ea3cfe7d0ec48d7023d3c3113.jpg",Oxygene-TV
 http://58.65.194.14:1935/live/Oxygene-TV.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="",8XM-HD
+#EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv//04bae8b4c09e9b3175dce5ac0e01fb0c.jpg",8XM-HD
 http://58.65.194.14:1935/live/8XM-HD.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="",Apna
+#EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv//52a2d91855f34326d3a40fced628ed96.png",Apna
 http://58.65.194.14:1935/live/CBS-Reality.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="",CBS Europa
+#EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv/Entertainment/54357f1b12409b4d2b73a1b1dd212a09.png",CBS Europa
 http://58.65.194.14:1935/live/cbseuropa.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="",TNT 
+#EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv/Entertainment/4fc0f5b2eb2de9dcad4d092d7ec02e0d.png",TNT 
 http://58.65.194.14:1935/live/tnt.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="",VH1
+#EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv/Music/859e3e1a8edfbf33b1fd711cde60a5f0.png",VH1
 http://58.65.194.14:1935/live/VH1.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="",MTV Live HD
+#EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv/Music/e7e87aa854c2893155f299634bf87326.png",MTV Live HD
 http://58.65.194.14:1935/live/MTV-Live-HD.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="",Fashin TV
+#EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv/Entertainment/0c16160cf7e18d359c30aee44a2d455b.png",Fashion TV
 http://58.65.194.14:1935/live/Fashion-tv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="",Trace Urban
+#EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv//c7c27ef468543d4eccea4bdb295b92c8.png",MTV Music 24
 http://58.65.194.14:1935/live/TraceUrban.stream/playlist.m3u8
