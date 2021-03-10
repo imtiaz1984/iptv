@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv//5dd2a9f65b3913488dc5938b614bfe67.jpg",Al Sunnah HD
+#EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv//d292891c6d40e224e82006ab762fe549.jpg",Al Sunnah HD
 http://58.65.194.14:1935/live/Al-Sunnah-HD.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv//ccd5c2edcdd10ad81e3ff7c4bdf16f74.png",Al Quran
 http://58.65.194.14:1935/live/English%20Club%20TV.stream/playlist.m3u8
@@ -71,13 +71,13 @@ http://58.65.194.14:1935/live/disney%20junior%20hd.stream/playlist.m3u8
 http://58.65.194.14:1935/live/Nickelodeon.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv//8f726836ed7f57fb1c0bdd06a0c7b802.jpg",Cartoon Network
 http://58.65.194.14:1935/live/Cartoon-network.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="",Filmazia
+#EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv//4f56ed7b84d76b808be3285526f883bf.png",NBC GOld HD
 http://58.65.194.14:1935/live/AMCHD.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="",Fast and Funbox
+#EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv//4345444690bbb638754b7e613a42aeba.png",AD Sports 3 HD
 http://58.65.194.14:1935/live/Fast%20and%20Funbox.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="",Planet Earth HD
+#EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv//c2074a4c241b37ce2b62f7861ada9a79.png",Al Khas 4 HD
 http://58.65.194.14:1935/live/Planet%20Earth%20HD.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="",Family Movies HD
+#EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv//d2b32fedc539c63cc24a3add06bf4999.png",AD Sports 4
 http://58.65.194.14:1935/live/Familymovieshd.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv/Sports/8c20f51b6b1f8565543df7570c044dfe.png",Extreme Sports
 http://58.65.194.14:1935/live/Extreme%20Sports%20HD.stream/playlist.m3u8
@@ -119,9 +119,9 @@ http://58.65.194.14:1935/live/MBC2HD.stream/playlist.m3u8
 http://58.65.194.14:1935/live/MBC-4.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv/Entertainment/65c8aeabce65bbf20f9199ad30cd0d88.png",NHK World HD
 http://58.65.194.14:1935/live/NHKWorldHD.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="",OSN Series First
+#EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv//2e1a3b7c69d8a76931036f4a0ab5f8f2.png",Fox Crime
 http://58.65.194.14:1935/live/OSN%20Series%20First%20HD.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="",13 Ulica HD
+#EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv/Documentary/8137619c252270f5f26ac5644f78ac90.png",13 Ulica HD
 http://58.65.194.14:1935/live/13%20Ulica%20HD.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv/Entertainment/18865c97a9f19ef44be126158ff304a9.png",Comedy Central HD
 http://58.65.194.14:1935/live/Comedy-Central-HD.stream/playlist.m3u8
@@ -131,7 +131,7 @@ http://58.65.194.14:1935/live/Comedy-Central-Family-HD.stream/playlist.m3u8
 http://58.65.194.14:1935/live/FOX-HD.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv/Movies/71cc4d105c70a28372e1c7e0542246d5.png",Fox Comedy HD
 http://58.65.194.14:1935/live/Fox-Comedy-HD.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="",Fire Movies
+#EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv//3628ff70aec93bfdcd0c4b3b547d4a9e.png",Dubai One
 http://58.65.194.14:1935/live/Firemovie.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv/Entertainment/b52231532f02f899582f1779c9449753.png",HBO HD
 http://58.65.194.14:1935/live/MotorvisionHD.stream/playlist.m3u8
@@ -165,9 +165,9 @@ http://58.65.194.14:1935/live/PTV-News.stream/playlist.m3u8
 http://58.65.194.14:1935/live/Dawn-news.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv/News/611b80034e8936c991ffaa74adfccadb.jpg",Sindh TV News
 http://58.65.194.14:1935/live/Sindh-TV-News.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv//6b9ba634391757a13d292639acb0b65b.png",Lahore News
+#EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv//25e910e6c2a4e821b8986341271da143.png",Din News
 http://58.65.194.14:1935/live/Crime-Investigation.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="",My Cinema HD
+#EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv//6b9ba634391757a13d292639acb0b65b.png",Lahore News
 http://58.65.194.14:1935/live/myCinemaHD.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv/News/286508e521cb0d84b5b6439b7338bf9b.png",Capital News TV
 http://58.65.194.14:1935/live/CapitalTV.stream/playlist.m3u8
