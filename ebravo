@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,Al Sunnah HD - Islamic Channel
+#EXTINF:-1,"Al Sunnah HD" tvg-logo="http://ebravo.pk/uploads/webtv//5dd2a9f65b3913488dc5938b614bfe67.jpg"
 http://58.65.194.14:1935/live/Al-Sunnah-HD.stream/playlist.m3u8
 #EXTINF:-1,Al Quran
 http://58.65.194.14:1935/live/English%20Club%20TV.stream/playlist.m3u8
