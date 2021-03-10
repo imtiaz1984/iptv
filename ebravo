@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTGRP:Islamic Channels
 #EXTINF:-1,Al Sunnah HD
 http://58.65.194.14:1935/live/Al-Sunnah-HD.stream/playlist.m3u8
 #EXTINF:-1,Al Quran
@@ -21,6 +22,7 @@ http://58.65.194.14:1935/live/Bravo_sub_rung.stream/playlist.m3u8
 http://58.65.194.14:1935/live/Bravo-Family.stream/playlist.m3u8
 #EXTINF:-1,Bravo-Now
 http://58.65.194.14:1935/live/Bravo-now.stream/playlist.m3u8
+#EXTGRP:Drama Channels
 #EXTINF:-1,HUM TV
 http://58.65.194.14:1935/live/Hum-tv.stream/playlist.m3u8
 #EXTINF:-1,Hum Sitaray
@@ -59,6 +61,7 @@ http://58.65.194.14:1935/live/TV-One.stream/playlist.m3u8
 http://58.65.194.14:1935/Voice%20Transcode/Aruj.stream_aac/playlist.m3u8
 #EXTINF:-1,HUM Masala
 http://58.65.194.14:1935/live/Hum-masala.stream/playlist.m3u8
+#EXTGRP:Kids TV
 #EXTINF:-1,Minika
 http://58.65.194.14:1935/live/minika.stream/playlist.m3u8
 #EXTINF:-1,Nick Jr
@@ -79,6 +82,7 @@ http://58.65.194.14:1935/live/Fast%20and%20Funbox.stream/playlist.m3u8
 http://58.65.194.14:1935/live/Planet%20Earth%20HD.stream/playlist.m3u8
 #EXTINF:-1,Family Movies HD
 http://58.65.194.14:1935/live/Familymovieshd.stream/playlist.m3u8
+#EXTGRP:Sports
 #EXTINF:-1,Extreme Sports
 http://58.65.194.14:1935/live/Extreme%20Sports%20HD.stream/playlist.m3u8
 #EXTINF:-1,Euro Sports 2
@@ -103,6 +107,7 @@ http://58.65.194.14:1935/live/tensports.stream/playlist.m3u8
 http://58.65.194.14:1935/live3/PTV-Sports.stream_480p/playlist.m3u8
 #EXTINF:-1,Geo Super Sports
 http://58.65.194.14:1935/live3/Geo-super.stream_480p/playlist.m3u8
+#EXTGRP:Movies
 #EXTINF:-1,Filmworld
 http://58.65.194.14:1935/live/Filmworld.stream/playlist.m3u8
 #EXTINF:-1,AXN Spin HD
@@ -139,6 +144,7 @@ http://58.65.194.14:1935/live/MotorvisionHD.stream/playlist.m3u8
 http://58.65.194.14:1935/live/HBO-3-HD.stream/playlist.m3u8
 #EXTINF:-1,HBO2 HD
 http://58.65.194.14:1935/live/HBO-2-HD.stream/playlist.m3u8
+#EXTGRP:News Channels
 #EXTINF:-1,Ary-news
 http://58.65.194.14:1935/live/Ary-news.stream/playlist.m3u8
 #EXTINF:-1,Geo News
@@ -197,6 +203,7 @@ http://58.65.194.14:1935/live/CNN.stream/playlist.m3u8
 http://58.65.194.14:1935/live/DW-News.stream/playlist.m3u8
 #EXTINF:-1,Travel Channel
 http://58.65.194.14:1935/live/Travel-Channel-HD.stream/playlist.m3u8
+#EXTGRP:Science
 #EXTINF:-1,History HD
 http://58.65.194.14:1935/live/History%20HD.stream/playlist.m3u8
 #EXTINF:-1,Discovery Science HD
@@ -221,6 +228,7 @@ http://58.65.194.14:1935/live/Nat-Geo-Wild-HD.stream/playlist.m3u8
 http://58.65.194.14:1935/live/NatGeoPeopleHD.stream/playlist.m3u8
 #EXTINF:-1,National Geographic HD
 http://58.65.194.14:1935/live/National-Geographic-HD.stream/playlist.m3u8
+#EXTGRP:Music
 #EXTINF:-1,Jalwa
 http://58.65.194.14:1935/live/jalwa.stream/playlist.m3u8
 #EXTINF:-1,ARY Music
