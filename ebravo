@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv//d292891c6d40e224e82006ab762fe549.jpg",Al Sunnah HD
+#EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv//d292891c6d40e224e82006ab762fe549.jpg" group-title="Islamic" tvg-name="Al Sunnah HD",Al Sunnah HD
 http://58.65.194.14:1935/live/Al-Sunnah-HD.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv//ccd5c2edcdd10ad81e3ff7c4bdf16f74.png",Al Quran
 http://58.65.194.14:1935/live/English%20Club%20TV.stream/playlist.m3u8
