@@ -37,7 +37,7 @@ http://58.65.194.14:1935/live/NatGeoPeopleHD.stream/playlist.m3u8
 http://58.65.194.14:1935/live/National-Geographic-HD.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv//59b73d6eb6f5fc31945c48b0ddc78d9e.jpg" group-title="Movies" tvg-name="Bravo Naya",Bravo Naya
 http://58.65.194.14:1935/live/Bravo4.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv//aecd0e3c83dca68e8f3db2aaa8707024.jpg" group-title="Movies" tvg-name="Bravo Sub Rung"Bravo Sub Rung
+#EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv//aecd0e3c83dca68e8f3db2aaa8707024.jpg" group-title="Movies" tvg-name="Bravo Sub Rung",Bravo Sub Rung
 http://58.65.194.14:1935/live/Bravo_sub_rung.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv//956d5900234bf82ebe66cf777108780f.jpg" group-title="Movies" tvg-name="Bravo Family",Bravo Family
 http://58.65.194.14:1935/live/Bravo-Family.stream/playlist.m3u8
@@ -85,7 +85,7 @@ http://58.65.194.14:1935/live/ARY-Zindagi.stream/playlist.m3u8
 http://58.65.194.14:1935/live/Ary-digital.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv//f442498cfa52ec746c7ed88df8c36453.jpg" group-title="Entertainment" tvg-name="BOL Entertainment",BOL Entertainment
 http://58.65.194.14:1935/live/BOL-Entertainment.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv//791bfddda3ba10d44dcf268dca52e7ef.jpg" group-title="Entertainment" tvg-name="Express Entertainment"Express Entertainment
+#EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv//791bfddda3ba10d44dcf268dca52e7ef.jpg" group-title="Entertainment" tvg-name="Express Entertainment",Express Entertainment
 http://58.65.194.14:1935/live/Express-entertainment.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv//ed5d3f3a59b7d64c2e98d5821484e10c.jpg" group-title="Entertainment" tvg-name="ATV",ATV
 http://58.65.194.14:1935/live/ATV.stream/playlist.m3u8
@@ -123,7 +123,7 @@ http://58.65.194.14:1935/live/AXNspinHD.stream/playlist.m3u8
 http://58.65.194.14:1935/live/AXN.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv/Entertainment/65c8aeabce65bbf20f9199ad30cd0d88.png" group-title="Entertainment" tvg-name="NHK World HD",NHK World HD
 http://58.65.194.14:1935/live/NHKWorldHD.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv/Entertainment/18865c97a9f19ef44be126158ff304a9.png" group-title="Entertainment" tvg-name="Comedy Central HD,"Comedy Central HD
+#EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv/Entertainment/18865c97a9f19ef44be126158ff304a9.png" group-title="Entertainment" tvg-name="Comedy Central HD,Comedy Central HD
 http://58.65.194.14:1935/live/Comedy-Central-HD.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv/Entertainment/cfd7385eb74429c40d9424ef1cbeb9db.png" group-title="Entertainment" tvg-name="Comedy Central Family HD",Comedy Central Family HD
 http://58.65.194.14:1935/live/Comedy-Central-Family-HD.stream/playlist.m3u8
@@ -179,11 +179,11 @@ http://58.65.194.14:1935/live/Sindh-TV-News.stream/playlist.m3u8
 http://58.65.194.14:1935/live/Crime-Investigation.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv//6b9ba634391757a13d292639acb0b65b.png" group-title="News" tvg-name="Lahore News",Lahore News
 http://58.65.194.14:1935/live/myCinemaHD.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv/News/286508e521cb0d84b5b6439b7338bf9b.png" group-title="News" tvg-name="Capital News TV"Capital News TV
+#EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv/News/286508e521cb0d84b5b6439b7338bf9b.png" group-title="News" tvg-name="Capital News TV,"Capital News TV
 http://58.65.194.14:1935/live/CapitalTV.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv/News/65c27ca2a1c89d5fdc59d506ef24a322.png" group-title="News" tvg-name="Abb Tak News",Abb Tak News
 http://58.65.194.14:1935/live/ABB-Takk.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv//59e3dc7134da9eed3444614fa73badc7.jpg" group-title="News" tvg-name="Such TV News"Such TV News
+#EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv//59e3dc7134da9eed3444614fa73badc7.jpg" group-title="News" tvg-name="Such TV News",Such TV News
 http://58.65.194.14:1935/live/SuchTV.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv/News/8fd29f1ec34b4cbb786bc9e9f1e3115b.jpg" group-title="News" tvg-name="Channel News Asia",Channel News Asia
 http://58.65.194.14:1935/live/ChannelNewsAsia.stream/playlist.m3u8
@@ -239,7 +239,7 @@ http://58.65.194.14:1935/live/ZooMooHD.stream/playlist.m3u8
 http://58.65.194.14:1935/live/bein_sports.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv/Sports/7a965c3d9047abef48a2c2ee5371769f.png" group-title="Sports" tvg-name="Bein Sports HD 11",Bein Sports HD 11
 http://58.65.194.14:1935/live/Bein-Sports-HD-11.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv//a9ac091c79af4b681163fafb06801907.jpg" group-title="Music" tvg-name="ARY Music
+#EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv//a9ac091c79af4b681163fafb06801907.jpg" group-title="Music" tvg-name="ARY Music",ARY Music
 http://58.65.194.14:1935/live/ARY-Musik.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv//18e5b33ea3cfe7d0ec48d7023d3c3113.jpg" group-title="Music" tvg-name="Oxygene TV",Oxygene TV
 http://58.65.194.14:1935/live/Oxygene-TV.stream/playlist.m3u8
