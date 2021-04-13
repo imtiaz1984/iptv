@@ -1,17 +1,17 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv//d292891c6d40e224e82006ab762fe549.jpg" group-title="Islamic" tvg-name="Al Sunnah HD",Al Sunnah HD
 http://58.65.194.14:1935/live/Al-Sunnah-HD.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv//ccd5c2edcdd10ad81e3ff7c4bdf16f74.png",Al Quran
+#EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv//ccd5c2edcdd10ad81e3ff7c4bdf16f74.png",group-title="Islamic" tvg-name="Al Quran ul Kareem",Al Quran ul Kareem
 http://58.65.194.14:1935/live/English%20Club%20TV.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv//b8a1b832ab750e827cfd5b4cb583533f.png",Peace TV
+#EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv//b8a1b832ab750e827cfd5b4cb583533f.png",group-title="Islamic" tvg-name="Peace TV",Peace TV
 http://58.65.194.14:1935/live/peace_tv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv//d41dd80bfeee10d7a1077b9f43bc2f26.jpg",Q TV
+#EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv//d41dd80bfeee10d7a1077b9f43bc2f26.jpg",group-title="Islamic" tvg-name="Q TV",Q TV
 http://58.65.194.14:1935/live/ARYQTV.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv//8f97650aeb8fcd0b928584c9ad3c3891.jpg",Madni Channel
+#EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv//8f97650aeb8fcd0b928584c9ad3c3891.jpg",group-title="Islamic" tvg-name="Madni Channel",Madni Channel
 http://58.65.194.14:1935/live/Madani-Channel.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv//5df829d38bf775c66cc7787ee080b2d5.jpg",Arrehman Arreheem
+#EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv//5df829d38bf775c66cc7787ee080b2d5.jpg",group-title="Islamic" tvg-name="Arrehman Arreheem",Arrehman Arreheem
 http://58.65.194.14:1935/live/Arrehman-arreheem.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv//5dd2a9f65b3913488dc5938b614bfe67.jpg",Bravo Islamic
+#EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv//5dd2a9f65b3913488dc5938b614bfe67.jpg",group-title="Islamic" tvg-name="Bravo Islamic",Bravo Islamic
 http://58.65.194.14:1935/live/Bravo1.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv/Documentary/66ee7567288365cb0cd8c1999f277575.png",NatGeo Wild HD
 http://58.65.194.14:1935/live/Nat-Geo-Wild-HD.stream/playlist.m3u8
@@ -87,6 +87,8 @@ http://58.65.194.14:1935/live/Ary-news.stream/playlist.m3u8
 http://58.65.194.14:1935/live/Geo-news.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv//0ee2e34304afa8c016734b81a86ac186.jpg",Samaa News
 http://58.65.194.14:1935/live/Samaa.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv//c116d2932cac62a981fb7c19336027e6.jpg",92 News
+http://58.65.194.14:1935/live/92-news.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv//45d85ab3bcc2663a1c2ce4b0f793becf.jpg",Express News
 http://58.65.194.14:1935/live/express.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv//efc62771c80af560c93bb355a5a3024f.jpg",Aaj News
