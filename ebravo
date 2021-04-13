@@ -19,8 +19,6 @@ http://58.65.194.14:1935/live/Nat-Geo-Wild-HD.stream/playlist.m3u8
 http://58.65.194.14:1935/live/NatGeoPeopleHD.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv/Documentary/00c3f5da2c6962d153d3af352469bd78.jpg",National Geographic HD
 http://58.65.194.14:1935/live/National-Geographic-HD.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv/Documentary/dda5cf0d17af65d657adad4cdbf33791.png",SciFi HD
-http://58.65.194.14:1935/live/ScifiUniversal.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv//59b73d6eb6f5fc31945c48b0ddc78d9e.jpg", Bravo Naya
 http://58.65.194.14:1935/live/Bravo4.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv//aecd0e3c83dca68e8f3db2aaa8707024.jpg",Bravo Sub Rung
@@ -123,6 +121,8 @@ http://58.65.194.14:1935/live/SuchTV.stream/playlist.m3u8
 http://58.65.194.14:1935/live/ChannelNewsAsia.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv/Movies/0e8aeeae82776eead9320452ba94d6a0.png",Filmworld
 http://58.65.194.14:1935/live/Filmworld.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv/Documentary/dda5cf0d17af65d657adad4cdbf33791.png",SciFi HD
+http://58.65.194.14:1935/live/ScifiUniversal.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv/Entertainment/b52231532f02f899582f1779c9449753.png",HBO HD
 http://58.65.194.14:1935/live/MotorvisionHD.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv/Entertainment/b5bfe2f239e000d83ccb4868c984a837.png",HBO3 HD 
