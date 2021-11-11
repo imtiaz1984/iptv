@@ -207,8 +207,10 @@ http://58.65.194.14:1935/live/CNN.stream/playlist.m3u8
 http://58.65.194.14:1935/live/DW-News.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv//d4e9bbfb2ebf018251974ff1bfc0eef1.jpg" group-title="Sports" tvg-name="Ten Sports",Ten Sports
 http://10.209.126.1:1935/live/Ten-Sports-480p.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv//5ca6618ec3d4513026ede8da4c904173.jpg" group-title="Sports" tvg-name="PTV Ports",PTV Ports
+#EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv//5ca6618ec3d4513026ede8da4c904173.jpg" group-title="Sports" tvg-name="PTV Sports",PTV Ports
 http://10.209.126.1:1935/live/PTV-Sports-480p.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://ebravo.pk/classic/uploads/webtv/Entertainment/084a26e73c1a73135efeea089e85337e.jpg" group-title="Sports" tvg-name="A Sports",PTV Ports
+http://58.65.194.14:1935/live/A-sport-480p.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv//962dea192112f382ac4b05d39c8eb04a.jpg" group-title="Sports" tvg-name="Geo Super Sports",Geo Super Sports
 http://58.65.194.14:1935/live/Geo-super.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv/Sports/8c20f51b6b1f8565543df7570c044dfe.png" group-title="Sports" tvg-name="Extreme Sports HD",Extreme Sports HD
