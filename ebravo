@@ -155,11 +155,15 @@ http://58.65.194.14:1935/live/Samaa.stream/playlist.m3u8
 http://58.65.194.14:1935/live/express.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv//efc62771c80af560c93bb355a5a3024f.jpg" group-title="News" tvg-name="Aaj News",Aaj News
 http://58.65.194.14:1935/live/AajNews.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://ebravo.pk/classic/uploads/webtv/News/3c07b4543b11f52db31b1003046760a3.jpg" group-title="News" tvg-name="24 News HD",24 News HD
+http://58.65.194.14:1935/live/Channel24.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv//abd5b4187c34dd15e77b605591d906e6.jpg" group-title="News" tvg-name="Dunya News",Dunya News
 http://58.65.194.14:1935/live/DunyaNews.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv//bfd36d3d75712525cf38777298f9b3e5.jpg" group-title="News" tvg-name="Neo News",Neo News
 http://58.65.194.14:1935/live/NeoNewsHD.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv/News/1a2f9c3f0e4b7bc730f6f3d4708e4e22.jpg" group-title="News" tvg-name="GNN News HD",GNN News HD
+http://58.65.194.14:1935/live/GNN-HD.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://ebravo.pk/classic/uploads/webtv//634d328ffc3e7ece79ab12660eb08f64.jpg" group-title="News" tvg-name="HUM News",HUM News
 http://58.65.194.14:1935/live/GNN-HD.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv//bc5c3dd7b08663734df3802aefc8a29f.jpg" group-title="News" tvg-name="Bol News HD",Bol News HD
 http://58.65.194.14:1935/live/BOL-TV.stream/playlist.m3u8
@@ -170,10 +174,10 @@ http://58.65.194.14:1935/live/92-news.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv/News/057cc4d71c9731bc93cea0b705d2c56a.jpg" group-title="News" tvg-name="PTV News",PTV News
 http://58.65.194.14:1935/live/PTV-News.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv//d3d9f5695dc39189dc113e204776f1a5.jpg" group-title="News" tvg-name="Dawn News",Dawn News
-http://58.65.194.14:1935/live/Dawn-news.stream/playlist.m3u8
+http://58.65.194.14:1935/live/Dawn-News-480p.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv/News/611b80034e8936c991ffaa74adfccadb.jpg" group-title="News" tvg-name="Sindh TV News",Sindh TV News
 http://58.65.194.14:1935/live/Sindh-TV-News.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv//25e910e6c2a4e821b8986341271da143.png" group-title="News" tvg-name="Din News",Din News
+#EXTINF:-1 tvg-logo="http://ebravo.pk/classic/uploads/webtv//ce328c01692ab2e565880420b0743131.jpg" group-title="News" tvg-name="BBC Brit",BBC Brit
 http://58.65.194.14:1935/live/Crime-Investigation.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv//6b9ba634391757a13d292639acb0b65b.png" group-title="News" tvg-name="Lahore News",Lahore News
 http://58.65.194.14:1935/live/myCinemaHD.stream/playlist.m3u8
@@ -203,6 +207,10 @@ http://58.65.194.14:1935/live/BBC-world-news-HD.stream/playlist.m3u8
 http://58.65.194.14:1935/live/CNN.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv//338fd5028495364996d9e544e94af790.jpg" group-title="News" tvg-name="DW News",DW News
 http://58.65.194.14:1935/live/DW-News.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://ebravo.pk/classic/uploads/webtv//2e11ce0592d84ff38c076fec79b2873c.jpg" group-title="News" tvg-name="CNBC HD",CNBC HD
+http://58.65.194.14:1935/live/Planet%20Earth%20HD.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://ebravo.pk/classic/uploads/webtv//e6b52971fdb50e6651944a2bf2f4633c.jpg" group-title="News" tvg-name="NHK World",NHK World
+http://58.65.194.14:1935/live/NHKWorldHD.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ebravo.pk/classic/uploads/webtv//6a0539b834b6dabf4a3e56b8e842b0f4.jpg" group-title="Sports" tvg-name="Ten Sports 1",Ten Sports 1
 http://203.101.163.5:1935/live/Tensports.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ebravo.pk/classic/uploads/webtv/Sports/cf833372e2f49a7f705af27e74267950.jpg" group-title="Sports" tvg-name="Ten Sports 2",Ten Sports 2
