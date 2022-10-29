@@ -101,8 +101,6 @@ http://58.65.194.14:1935/live/PTV-National.stream/playlist.m3u8
 http://58.65.194.14:1935/live/TV-One.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv//6c2cef839296c8e887b106d36409d777.jpg" group-title="Entertainment" tvg-name="Urdu 1",Urdu 1
 http://58.65.194.14:1935/live/Urdu-1.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv//ac3edc64a77db0abdefebc95be2e3887.jpg" group-title="Entertainment" tvg-name="Aruj",Aruj
-http://58.65.194.14:1935/Voice%20Transcode/Aruj.stream_aac/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv//665441624f66d5b77842c239383573dd.jpg" group-title="Entertainment" tvg-name="Play Entertainment",Play Entertainment
 http://58.65.194.14:1935/live/Play-Entertainment.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv/Entertainment/b64e83056e48e012e1459e7e15ec9379.jpg" group-title="Entertainment" tvg-name="Sindh TV",Sindh TV
