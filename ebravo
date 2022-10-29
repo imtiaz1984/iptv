@@ -205,10 +205,18 @@ http://58.65.194.14:1935/live/BBC-world-news-HD.stream/playlist.m3u8
 http://58.65.194.14:1935/live/CNN.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv//338fd5028495364996d9e544e94af790.jpg" group-title="News" tvg-name="DW News",DW News
 http://58.65.194.14:1935/live/DW-News.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv//d4e9bbfb2ebf018251974ff1bfc0eef1.jpg" group-title="Sports" tvg-name="Ten Sports",Ten Sports
-http://58.65.194.14:1935/live/tensports.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv//5ca6618ec3d4513026ede8da4c904173.jpg" group-title="Sports" tvg-name="PTV Sports",PTV Ports
-http://58.65.194.14:1935/live/PTV-Sports.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://ebravo.pk/classic/uploads/webtv//6a0539b834b6dabf4a3e56b8e842b0f4.jpg" group-title="Sports" tvg-name="Ten Sports 1",Ten Sports 1
+http://203.101.163.5:1935/live/Tensports.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://ebravo.pk/classic/uploads/webtv/Sports/cf833372e2f49a7f705af27e74267950.jpg" group-title="Sports" tvg-name="Ten Sports 2",Ten Sports 2
+http://192.168.246.102:1935/live/tensports.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://ebravo.pk/classic/uploads/webtv/Sports/bb3299d74cfcb003b14eb5740487493c.jpg" group-title="Sports" tvg-name="Ten Sports 3",Ten Sports 3
+http://192.168.246.134:1935/live/tensports.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://ebravo.pk/classic/uploads/webtv//aec04f973aa2e55cab6217a35417150a.jpg" group-title="Sports" tvg-name="PTV Sports 1",PTV Ports 1
+http://203.101.163.5:1935/live/PTV-Sports.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://ebravo.pk/classic/uploads/webtv/Sports/2ae0dd5bb98bfdb22933289cd16962aa.jpg" group-title="Sports" tvg-name="PTV Sports 2",PTV Ports 2
+http://192.168.246.102:1935/live/PTV-Sports.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=http://ebravo.pk/classic/uploads/webtv/Sports/6e5468c9399a0a84513d09bcfe5ccb96.jpg" group-title="Sports" tvg-name="PTV Sports 3",PTV Ports 3
+http://192.168.246.134:1935/live/PTV-Sports.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ebravo.pk/classic/uploads/webtv/Entertainment/084a26e73c1a73135efeea089e85337e.jpg" group-title="Sports" tvg-name="A Sports",A Ports
 http://58.65.194.14:1935/live/A-Sports.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ebravo.pk/uploads/webtv//962dea192112f382ac4b05d39c8eb04a.jpg" group-title="Sports" tvg-name="Geo Super Sports",Geo Super Sports
