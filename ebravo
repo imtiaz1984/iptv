@@ -45,6 +45,8 @@ http://58.65.194.14:1935/live/Nat-Geo-Wild-HD.stream/playlist.m3u8
 http://58.65.194.14:1935/live/NatGeoPeopleHD.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ebravo.pk/classic/uploads/webtv//966ca3107f8340e897f7e08a254005e3.jpg" group-title="Documentary" tvg-name="National Geographic HD",National Geographic HD
 http://58.65.194.14:1935/live/National-Geographic-HD.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://ebravo.pk/classic/uploads/webtv//a204a3323baae0f97f84604e9e3ff4b5.jpg" group-title="Documentary" tvg-name="History Channel HD",History Channel HD
+http://58.65.194.14:1935/live/MTV-Live-HD.stream/playlist.m3u8
 ########################################
 ################# Kids ################# Updated 08-Nov-2022
 ########################################
@@ -52,7 +54,7 @@ http://58.65.194.14:1935/live/National-Geographic-HD.stream/playlist.m3u8
 http://58.65.194.14:1935/live/Bravo-Family.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ebravo.pk/classic/uploads/webtv//cea49c9f7cd0f0477e3d218e174d8419.jpg" group-title="Kids" tvg-name="Minika Go",Minika Go
 http://58.65.194.14:1935/live/minika.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://ebravo.pk/classic/uploads/webtv//cea49c9f7cd0f0477e3d218e174d8419.jpg" group-title="Kids" tvg-name="Nick Jr",Nick Jr
+#EXTINF:-1 tvg-logo="http://ebravo.pk/classic/uploads/webtv//f7736e3e1c5822be079581e28289b2d8.jpg" group-title="Kids" tvg-name="Nick Jr",Nick Jr
 http://58.65.194.14:1935/live/NickJr.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ebravo.pk/classic/uploads/webtv//39c1a364ab17ca3daa7316a17aadd398.jpg" group-title="Kids" tvg-name="Baby TV",Baby TV
 http://58.65.194.14:1935/live/Baby-TV.stream/playlist.m3u8
@@ -77,7 +79,7 @@ http://58.65.194.14:1935/live/Extreme%20Sports%20HD.stream/playlist.m3u8
 http://58.65.194.14:1935/live/Eurosport-2-HD.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ebravo.pk/classic/uploads/webtv//729aa71ec754746f4dc55dda67be375a.jpg" group-title="Sports" tvg-name="Euro Sports 1",Euro Sports 1
 http://58.65.194.14:1935/live/Euro-sport-1-HD.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://ebravo.pk/classic/uploads/webtv//729aa71ec754746f4dc55dda67be375a.jpg" group-title="Sports" tvg-name="A Sports 3",A Sports 3
+#EXTINF:-1 tvg-logo="http://ebravo.pk/classic/uploads/webtv/Sports/53f7dbd120224fe14ebbbb0ee9b92fde.jpg" group-title="Sports" tvg-name="A Sports 3",A Sports 3
 http://192.168.246.102:1935/live/Asport.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ebravo.pk/classic/uploads/webtv/Sports/6aaa82ac240afa74ba584c3d81df17df.jpg" group-title="Sports" tvg-name="A Sports 2",A Sports 2
 http://192.168.246.134:1935/live/Asport.stream/playlist.m3u8
@@ -93,7 +95,7 @@ http://192.168.246.134:1935/live/tensports.stream/playlist.m3u8
 http://203.101.163.5:1935/live/PTV-Sports.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ebravo.pk/classic/uploads/webtv/Sports/2ae0dd5bb98bfdb22933289cd16962aa.jpg" group-title="Sports" tvg-name="PTV Sports 2",PTV Ports 2
 http://192.168.246.102:1935/live/PTV-Sports.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo=http://ebravo.pk/classic/uploads/webtv/Sports/bb3299d74cfcb003b14eb5740487493c.jpg" group-title="Sports" tvg-name="PTV Sports 3",PTV Ports 3
+#EXTINF:-1 tvg-logo="http://ebravo.pk/classic/uploads/webtv//aec04f973aa2e55cab6217a35417150a.jpg" group-title="Sports" tvg-name="PTV Sports 3",PTV Ports 3
 http://192.168.246.134:1935/live/PTV-Sports.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ebravo.pk/classic/uploads/webtv//484b3c497175d8ef363aa7affec034b6.jpg" group-title="Sports" tvg-name="Geo Super Sports",Geo Super Sports
 http://58.65.194.14:1935/live/Geo-super.stream/playlist.m3u8
